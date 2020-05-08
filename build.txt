@@ -1,0 +1,3 @@
+displayName = Wooper Pet
+author = chubert1
+version = 1.0

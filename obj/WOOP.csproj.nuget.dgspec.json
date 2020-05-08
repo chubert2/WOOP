@@ -1,0 +1,45 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Joey\\OneDrive\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\WOOP\\WOOP.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Joey\\OneDrive\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\WOOP\\WOOP.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Joey\\OneDrive\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\WOOP\\WOOP.csproj",
+        "projectName": "WOOP",
+        "projectPath": "C:\\Users\\Joey\\OneDrive\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\WOOP\\WOOP.csproj",
+        "packagesPath": "C:\\Users\\Joey\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Joey\\OneDrive\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\WOOP\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Joey\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

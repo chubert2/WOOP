@@ -1,0 +1,1 @@
+Adds a Wooper pet item which can be crafting using Purple Mucos at an Imbuing Station.
